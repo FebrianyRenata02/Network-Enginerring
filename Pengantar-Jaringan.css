@@ -1,0 +1,19 @@
+* {
+    font-family: sans-serif;
+    padding: 0;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    padding-top: 3rem;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin: 15px;
+}
